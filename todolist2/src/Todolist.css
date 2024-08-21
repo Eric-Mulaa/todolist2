@@ -1,0 +1,16 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+.buttons button{
+    color: aqua;
+    background-color: transparent;
+    margin-left: 20px;
+    cursor: pointer;
+    height: 50px;
+    border: none;
+
+}
+

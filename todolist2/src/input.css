@@ -1,0 +1,20 @@
+.input{
+    height: 50px;
+    border-width: 1px;
+    border-radius: 8px;
+    width: 300px;
+    border-style: solid;
+    background-color: transparent;
+    color: white;
+}
+
+.add_button{
+    background-color: aqua;
+    border: none;
+    color: white;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: 15px;
+    cursor: pointer;
+
+}
